@@ -1,3 +1,4 @@
-MBP - Market Board Pricer
+# MBP - Market Board Pricer
 
-# ff14_mbp
+// This readme is still under work. See brainstorm.md for discussion. //
+
