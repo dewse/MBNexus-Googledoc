@@ -1,1 +1,3 @@
-# ff14_mbprice
+MBP - Market Board Pricer
+
+# ff14_mbp
