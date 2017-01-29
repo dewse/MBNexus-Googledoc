@@ -22,4 +22,6 @@ money faster and get the data I want faster all in one.
   * I want to see if it's possible to have secured accounts. Very limited, except for the data on personal prices, which enriches database.
   * Customizable for personal needs.
   * Color displayed items of crafting priority based on past trends. Identify profitable markets.
+  * Module for timed spawns: Fishing, Miner, Botanists.
+  * Timer set on AZ timer to keep track.
   * More to come...  
