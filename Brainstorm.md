@@ -20,7 +20,7 @@ money faster and get the data I want faster all in one.
   * If Item left clicked, item's name will go to clipboard, so you can paste in FF14 to buy or search.
   * Items of preference will allow users to input current prices and build database over time.
   * I want to see if it's possible to have secured accounts. Very limited, except for the data on personal prices, which enriches database.
-  * Customizable for personal needs.
+  * Customizable for personal needs -- recognizes trends. Unlikely to come with the core.
   * Color displayed items of crafting priority based on past trends. Identify profitable markets.
   * Module for timed spawns: Fishing, Miner, Botanists.
   * Timer set on AZ timer to keep track.
