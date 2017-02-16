@@ -1,4 +1,4 @@
-# Brainstorm
+# News
 
 ## 29th Jan 2016:
 
