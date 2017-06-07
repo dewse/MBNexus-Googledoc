@@ -5,8 +5,8 @@ I want to perform.
 
 Market Demand:
 
-https://docs.google.com/spreadsheets/d/163qG4sioEI005shIuOauwUcWiMEoZWHevKcaEBz5cnE/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1XuxHbmmL4_1PvlTdWpIDlca3FGI6tFZbba288b5CD7Q/edit?usp=sharing
 
 Rowena's House of Slendor:
 
-https://docs.google.com/spreadsheets/d/1KzRTm_NFvCoYVU5MqS8elQ8EquTIuOXHhKEMN3sbPpI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/155XDyKYzveJme9cyfiQiEZtoeX-iVHHXeqnEnG0t3fA/edit?usp=sharing
