@@ -5,8 +5,16 @@ I want to perform.
 
 Market Demand:
 
-https://docs.google.com/spreadsheets/d/1XuxHbmmL4_1PvlTdWpIDlca3FGI6tFZbba288b5CD7Q/edit?usp=sharing
+  (v0.2):
+  https://docs.google.com/spreadsheets/d/1XuxHbmmL4_1PvlTdWpIDlca3FGI6tFZbba288b5CD7Q/edit?usp=sharing
+
+  (v0.3 - Stormblood):
+  https://docs.google.com/spreadsheets/d/1-_19R9lQSdWrK4h2JtUo9_2UxqpSm5s1wYczwty94yc/edit?usp=sharing
 
 Rowena's House of Slendor:
 
-https://docs.google.com/spreadsheets/d/155XDyKYzveJme9cyfiQiEZtoeX-iVHHXeqnEnG0t3fA/edit?usp=sharing
+  (v0.2):
+  https://docs.google.com/spreadsheets/d/155XDyKYzveJme9cyfiQiEZtoeX-iVHHXeqnEnG0t3fA/edit?usp=sharing
+
+  (v0.3 - Stormblood):
+  https://docs.google.com/spreadsheets/d/1BRSNnZFsl776lePdERqHtZv27LwCfAnEtrkSdL2N8V0/edit?usp=sharing
