@@ -7,7 +7,7 @@ I'm still establishing the infrastructure I want to work with for the entire app
 
 <details><summary>The right SQL platform.</summary>
 I've been learning SQLalchemy, but realized that SQLalchemy doesn't have native support for arrays of string that
-that more established and complex tools like postgreSQL offers. This has led me to download it and learn it further.
+the more established and complex tools like postgreSQL offers. This has led me to download it and learn it further.
 I finally finished the full setup and it's ready to take the commands of my user. Next is building the proper schema.
 </details><br/>
 
