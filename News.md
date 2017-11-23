@@ -1,5 +1,9 @@
 # News
 
+## 22th November 2017
+
+Fairly long hiatus. Still occasionally working on the googlesheet and learning more things that will allow me to create an app for this, such as json, flask, and SQL, but this remains to be such a huge project that migrating it away from googlesheet would require too much time on my own.
+
 ## 22th August 2016:
 
 I'm still establishing the infrastructure I want to work with for the entire application:
